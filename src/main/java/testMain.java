@@ -23,7 +23,6 @@ public class testMain {
 
 
         // Switch for days
-
         int dayNumber = 0;
         switch(dayNumber){
             case 1:

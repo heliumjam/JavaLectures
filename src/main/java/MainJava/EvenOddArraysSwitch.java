@@ -1,4 +1,6 @@
-public class testMain {
+package MainJava;
+
+public class EvenOddArraysSwitch {
 
     public static void test(String text){
         System.out.println(text);
